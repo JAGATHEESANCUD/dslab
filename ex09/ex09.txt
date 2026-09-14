@@ -1,4 +1,4 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex09\" ; if ($?) { gcc ex09.c -o ex09 } ; if ($?) { .\ex09 }
+PS C:\Users\jagat> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex09\" ; if ($?) { gcc ex09.c -o ex09 } ; if ($?) { .\ex09 }
 
 Enter the size of the queue: 5
 
