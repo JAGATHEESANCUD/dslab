@@ -1,4 +1,4 @@
-PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex03\ex03a\" ; if ($?) { gcc ex03a.c -o ex03a } ; if ($?) { .\ex03a }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex03\ex03a\" ; if ($?) { gcc ex03a.c -o ex03a } ; if ($?) { .\ex03a }
 
 Stack Operations Menu:
 1. Push
