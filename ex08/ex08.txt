@@ -1,4 +1,4 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex08\" ; if ($?) { gcc ex08.c -o ex08 } ; if ($?) { .\ex08 }
+PS C:\Users\jagat> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex08\" ; if ($?) { gcc ex08.c -o ex08 } ; if ($?) { .\ex08 }
 Enter the number of vertices: 5
 Enter the cost adjacency matrix (enter 999 for no direct path):
 0 10 5 999 999
