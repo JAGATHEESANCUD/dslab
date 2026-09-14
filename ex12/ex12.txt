@@ -1,4 +1,4 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex12\ex12\" ; if ($?) { gcc ex12.c -o ex12 } ; if ($?) { .\ex12 }
+PS C:\Users\jagat> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex12\ex12\" ; if ($?) { gcc ex12.c -o ex12 } ; if ($?) { .\ex12 }
 Enter how many students: 2
 
 Enter name and roll number for student 1: GOKUL
