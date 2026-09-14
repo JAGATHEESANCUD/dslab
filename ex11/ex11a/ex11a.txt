@@ -1,4 +1,4 @@
-PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10d> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11a\" ; if ($?) { gcc ex11a.c -o ex11a } ; if ($?) { .\ex11a }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex10\ex10d> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11a\" ; if ($?) { gcc ex11a.c -o ex11a } ; if ($?) { .\ex11a }
 
 Press 1. Insert 2. Display      3. Exit
 Enter your choice: 1
