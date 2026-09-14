@@ -1,4 +1,4 @@
-PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex01\ex01a\" ; if ($?) { gcc ex01a.c -o ex01a } ; if ($?) { .\ex01a }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex01\ex01a\" ; if ($?) { gcc ex01a.c -o ex01a } ; if ($?) { .\ex01a }
 
 Array Operation Menu:
 1. Create Array
