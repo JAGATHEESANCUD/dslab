@@ -1,4 +1,4 @@
-PS C:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11b> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11b\" ; if ($?) { gcc ex11b.c -o ex11b } ; if ($?) { .\ex11b }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11b> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex11\ex11b\" ; if ($?) { gcc ex11b.c -o ex11b } ; if ($?) { .\ex11b }
 Enter size of hash table
 5
 Enter hash function (if mod 10, enter 10)
