@@ -1,4 +1,4 @@
-PS C:\Users\mngok> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex04\ex04b\" ; if ($?) { gcc ex04b.c -o ex04b } ; if ($?) { .\ex04b }
+PS C:\Users\jagat> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex04\ex04b\" ; if ($?) { gcc ex04b.c -o ex04b } ; if ($?) { .\ex04b }
 
 Queue Operations Menu:
 1. Enqueue
