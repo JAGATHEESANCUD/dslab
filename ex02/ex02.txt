@@ -1,4 +1,4 @@
-PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex02\" ; if ($?) { gcc ex02.c -o ex02 } ; if ($?) { .\ex02 }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex02\" ; if ($?) { gcc ex02.c -o ex02 } ; if ($?) { .\ex02 }
 
 1. Insert at End
 2. Delete Node
