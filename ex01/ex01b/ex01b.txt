@@ -1,4 +1,4 @@
-PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\mngok\OneDrive\Documents\Lab - Program Files\DS - Lab\ex01\ex01b\" ; if ($?) { gcc ex01b.c -o ex01b } ; if ($?) { .\ex01b }
+PS C:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex01\ex01b\" ; if ($?) { gcc ex01b.c -o ex01b } ; if ($?) { .\ex01b }
 
 Singly Linked List Operations Menu:
 1. Insert at End
