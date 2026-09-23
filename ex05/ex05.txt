@@ -1,7 +1,4 @@
-PS C:\Users\jagat> cd "c:\Users\jagat\OneDrive\Documents\Lab - Program Files\DS - Lab\ex05\" ; if ($?) { gcc ex05.c -o ex05 } ; if ($?) { .\ex05 }
-
-
-~~~~BST MENU~~~~
+~~~BST MENU~~~~
 1. Create a BST
 2. Display
 3. Search
