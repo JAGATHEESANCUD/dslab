@@ -1,5 +1,5 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex01$ gcc ex01b.c
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex01$ ./a.out
+ds-lab@ds-lab-System-Product-Name:~/dslab/ex01$ gcc ex01b.c
+ds-lab@ds-lab-System-Product-Name:~/dslab/ex01$ ./a.out
 
 Singly Linked List Operations Menu:
 1. Insert at End
