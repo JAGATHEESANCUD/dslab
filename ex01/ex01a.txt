@@ -1,5 +1,5 @@
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex01$ gcc ex01a.c
-ds-lab@ds-lab-System-Product-Name:~/dslab421125106007/ex01$ ./a.out
+ds-lab@ds-lab-System-Product-Name:~/dslab/ex01$ gcc ex01a.c
+ds-lab@ds-lab-System-Product-Name:~/dslab/ex01$ ./a.out
 
 Array Operation Menu:
 1. Create Array
